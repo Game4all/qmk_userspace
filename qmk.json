@@ -1,0 +1,7 @@
+{
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["kprepublic/bm60hsrgb_iso/rev2", "g4a"],
+        ["kprepublic/bm60hsrgb_poker/rev2", "g4a"]
+    ]
+}
